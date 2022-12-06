@@ -1,0 +1,35 @@
+exe 1)
+algoritmo "Olá Mundo"
+
+// Função :
+// Autor :
+// Data : 03/03/2022
+// Seção de Declarações 
+var
+
+
+inicio
+escreva ("ola mundo")
+
+fimalgoritmo
+
+******************
+exe 02)
+
+algoritmo "Olá Mundo"
+
+// Função :
+// Autor :
+// Data : 03/03/2022
+// Seção de Declarações 
+var
+nome: caracter
+
+inicio
+
+escreva ("olá ")
+leia(nome)
+escreva("É um prazer te conhecer!")
+**********************
+exe 03) 
+fimalgoritmo
